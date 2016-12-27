@@ -10,6 +10,7 @@
       <link href="{{URL::asset('css/animate.min.css')}}" rel="stylesheet" type="text/css">
       <link href="{{URL::asset('css/animsition.min.css')}}" rel="stylesheet" type="text/css">
       <link href="{{URL::asset('css/owl/owl.carousel.css')}}" rel="stylesheet" type="text/css">
+      <link href="{{URL::asset('css/font-awesome.min.css')}}" rel="stylesheet" type="text/css">
       <!-- Theme styles -->
       <link href="{{URL::asset('css/style.css')}}" rel="stylesheet" type="text/css">
       <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

@@ -18,12 +18,12 @@
 									<input class="form-control" placeholder="Search coupons ..."
 										aria-label="Text input with multiple buttons">
 								</div>
-								<a href=""><i class="ti-search"></i></a>
+								<a href=""><i class="fa fa-search"></i></a>
 							</form>
 						</li>
 						<li class="dropdown hidden-xs"><a href="#" data-target="#"
 							class="dropdown-toggle" data-toggle="dropdown"
-							aria-expanded="true"> <i class="ti-shopping-cart"></i> <span
+							aria-expanded="true"> <i class="fa fa-shopping-cart"></i> <span
 								class="badge badge-xs badge-danger">3</span>
 						</a>
 							<ul class="dropdown-menu dropdown-menu-lg">
@@ -77,9 +77,9 @@
 							class="dropdown-toggle profile btn btn-default"
 							data-toggle="dropdown" aria-expanded="true"> My account </a>
 							<ul class="dropdown-menu" style="margin-top: 16px">
-								<li><a href="javascript:void(0)"> LogIn</a></li>
-								<li><a href="javascript:void(0)">Registration</a></li>
-								<li><a href="javascript:void(0)">Help Center </a></li>
+								<li><a href="javascript:void(0)"><i class="fa fa-sign-in" aria-hidden="true"></i> <span>LogIn</span></a></li>
+								<li><a href="javascript:void(0)"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> <span>Registration</span></a></li>
+								<li><a href="javascript:void(0)"><i class="fa fa-life-ring" aria-hidden="true"></i> <span>Help Center</span> </a></li>
 							</ul></li>
 					</ul>
 					<div class="menu-item">
@@ -100,22 +100,22 @@
 			<div id="navigation">
 				<!-- Navigation Menu-->
 				<ul class="navigation-menu">
-					<li class="active"><a href="index.html"><i class="ti-home"></i> <span>
+					<li class="active"><a href="index.html"><i class="fa fa-home"></i> <span>
 								Home </span> </a></li>
-					<li class="has-submenu"><a href="#"><i class="ti-cut"></i> <span>
+					<li class="has-submenu"><a href="#"><i class="fa fa-scissors"></i> <span>
 								Coupons </span> </a>
 						<ul class="submenu">
 							<li><a href="results.html">Coupon list</a></li>
 							<li><a href="results_2.html">Coupon grid</a></li>
 							<li><a href="results_3.html">Coupon grid image</a></li>
 						</ul></li>
-					<li class="has-submenu"><a href="#"><i class="ti-announcement"></i>
+					<li class="has-submenu"><a href="#"><i class="fa fa-certificate"></i>
 							<span> Stores </span> </a>
 						<ul class="submenu">
 							<li><a href="store_profile.html">Store</a></li>
 							<li><a href="categories.html">Store categories</a></li>
 						</ul></li>
-					<li class="has-submenu"><a href="#"><i class="ti-layout-list-thumb"></i>
+					<li class="has-submenu"><a href="#"><i class="fa fa-list-ul"></i>
 							<span> Pages </span> </a>
 						<ul class="submenu">
 							<li><a href="store_profile.html">Store</a></li>
